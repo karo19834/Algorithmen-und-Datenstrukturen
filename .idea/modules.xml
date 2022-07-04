@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Laufzeiten/01_Laufzeiten.iml" filepath="$PROJECT_DIR$/01_Laufzeiten/01_Laufzeiten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_VerketteteListeStackQueue/02_VerketteteListeStackQueue.iml" filepath="$PROJECT_DIR$/02_VerketteteListeStackQueue/02_VerketteteListeStackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Rekursion/03_Rekursion.iml" filepath="$PROJECT_DIR$/03_Rekursion/03_Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Baeume/04_Baeume.iml" filepath="$PROJECT_DIR$/04_Baeume/04_Baeume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Heap/05_Heap.iml" filepath="$PROJECT_DIR$/05_Heap/05_Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Hashtable/06_Hashtable.iml" filepath="$PROJECT_DIR$/06_Hashtable/06_Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Sortieren/07_Sortieren.iml" filepath="$PROJECT_DIR$/07_Sortieren/07_Sortieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithmen und Datenstrukturen.iml" filepath="$PROJECT_DIR$/.idea/Algorithmen und Datenstrukturen.iml" />
+    </modules>
+  </component>
+</project>
