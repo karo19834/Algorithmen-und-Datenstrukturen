@@ -37,6 +37,9 @@ public class ArrayGraph implements Graph {
 	
 	public void addEdge(int v1, int v2, int weight) {
 		// TODO: Implementieren
+		graph[v1][v2]= weight;
+		if (!directed)
+			graph[v2][v1]= weight;
 	}
 
 	public void removeEdge(int v1, int v2) {
