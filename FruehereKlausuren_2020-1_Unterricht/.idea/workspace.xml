@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38c9ac25-d1d4-40ff-880c-b721a83fb86b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1euOK4NMvkeyriN5Lx4MGsrsY6b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/party_Unterricht" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Campus02\Unterricht ALD 2022\Code\FruehereKlausuren_2020-1_Starter\src\party_Unterricht" />
+      <recent name="D:\Campus02\Unterricht ALD 2022\Code\FruehereKlausuren_2020-1_Starter\src\wishlist_Unterricht" />
+      <recent name="D:\Campus02\Unterricht ALD 2022\Code\FruehereKlausuren_2020-1_Starter\src\tombola_Unterricht" />
+      <recent name="D:\Campus02\Unterricht ALD 2022\Code\FruehereKlausuren_2020-1_Starter\src\polonaise_Unterricht" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Wishlist (1)">
+    <configuration name="Polonaise (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polonaise_Unterricht.Polonaise" />
+      <module name="ALD-Klausur-Praxis-2020-07-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polonaise_Unterricht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polonaise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polonaise.Polonaise" />
+      <module name="ALD-Klausur-Praxis-2020-07-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polonaise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tombola (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tombola_Unterricht.Tombola" />
+      <module name="ALD-Klausur-Praxis-2020-07-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tombola_Unterricht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tombola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tombola.Tombola" />
+      <module name="ALD-Klausur-Praxis-2020-07-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tombola.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wishlist (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wishlist_Unterricht.Wishlist" />
+      <module name="ALD-Klausur-Praxis-2020-07-22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wishlist_Unterricht.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wishlist (1)" />
+        <item itemvalue="Application.Tombola (1)" />
+        <item itemvalue="Application.Polonaise (1)" />
+        <item itemvalue="Application.Polonaise" />
+        <item itemvalue="Application.Tombola" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c9ac25-d1d4-40ff-880c-b721a83fb86b" name="Default Changelist" comment="" />
+      <created>1595167943456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595167943456</updated>
+    </task>
+    <servers />
+  </component>
+</project>
